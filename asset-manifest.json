@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/code-snip/static/css/main.eb8475b1.chunk.css",
+    "main.js": "/code-snip/static/js/main.3d6aca11.chunk.js",
+    "main.js.map": "/code-snip/static/js/main.3d6aca11.chunk.js.map",
+    "runtime-main.js": "/code-snip/static/js/runtime-main.71635adc.js",
+    "runtime-main.js.map": "/code-snip/static/js/runtime-main.71635adc.js.map",
+    "static/js/2.345e258a.chunk.js": "/code-snip/static/js/2.345e258a.chunk.js",
+    "static/js/2.345e258a.chunk.js.map": "/code-snip/static/js/2.345e258a.chunk.js.map",
+    "index.html": "/code-snip/index.html",
+    "precache-manifest.e0fdfbb1461d59beaaa8c05c965f1f7f.js": "/code-snip/precache-manifest.e0fdfbb1461d59beaaa8c05c965f1f7f.js",
+    "service-worker.js": "/code-snip/service-worker.js",
+    "static/css/main.eb8475b1.chunk.css.map": "/code-snip/static/css/main.eb8475b1.chunk.css.map",
+    "static/js/2.345e258a.chunk.js.LICENSE.txt": "/code-snip/static/js/2.345e258a.chunk.js.LICENSE.txt",
+    "static/media/uptech_logo.svg": "/code-snip/static/media/uptech_logo.0c315dc9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71635adc.js",
+    "static/js/2.345e258a.chunk.js",
+    "static/css/main.eb8475b1.chunk.css",
+    "static/js/main.3d6aca11.chunk.js"
+  ]
+}
